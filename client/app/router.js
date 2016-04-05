@@ -9,6 +9,7 @@ Router.map(function() {
   this.route('photos');
   this.route('articles');
   this.route('tags');
+  this.route('users');
 });
 
 export default Router;
